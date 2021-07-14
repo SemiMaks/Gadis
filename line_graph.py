@@ -8,6 +8,10 @@ import matplotlib.pyplot as plt
 
 
 def main():
+    # Установка граниу осей X и Y.
+    plt.xlim(xmin=0, xmax=10)
+    plt.ylim(ymin=0, ymax=10)
+
     # Создать списки для координат X и Y каждой точки данных.
     x_coords = [0, 1, 2, 3, 4, 5]
     y_coords = [0, 3, 1, 5, 2, 4]
