@@ -11,4 +11,5 @@ def main():
     else:
         print('Неизвестный тип файла.')
 
+
 main()
