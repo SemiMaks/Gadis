@@ -25,6 +25,7 @@ def main():
     else:
         print('Такого ключа в словаре нет.')
     print('После удаления записи Джуди: ', phone_book)
-
+    len_pb = len(phone_book)
+    print('Количество пар ключ:значение в phone_book: ', len_pb)
 
 main()
