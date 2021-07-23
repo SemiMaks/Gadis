@@ -43,10 +43,18 @@ def main():
     print(phone_book.get('Мэт', 'запись не найдена'))
     print(phone_book.get('Крис', 'Записи нет'))
 
-
     # Перебор кортежей впоследовательности применив цикл
     for key, value in phone_book.items():
         print(key, value)
+
+    for key in phone_book.keys():
+        print(key)
+
+    for key in phone_book:
+        print('Словарь phone_book, ключ: ', key)
+
+    phone_num = phone_book.pop('Эллис', 'Нет такого значения, увы')
+    print(phone_num)
 
 
 main()
