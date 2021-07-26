@@ -54,3 +54,11 @@ print('Разность множеств: ', myset7)
 # Симметричная разнасть множеств:
 myset8 = myset3 ^ myset4    # myset3.symmetric_difference(myset4)
 print('Симметричная разность множеств: ', myset8)
+
+# Подмножества и надмножества
+print(myset <= myset3) # myset.issubset(myset3) - подмножество True
+print(myset3 >= myset3) # myset3.issuperset(myset) - надмножество True
+print(myset4 <= myset3) # False
+
+
+
