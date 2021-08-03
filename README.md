@@ -7,6 +7,7 @@
 * [Думать на языке Python. Аллен Дауни.](https://drive.google.com/file/d/19WhtquRZCyG522zjMVR3B7pjBKMlMK8i/view?usp=sharing)
 * [Изучаем Python. Э.Мэтиз.](https://drive.google.com/file/d/14mF6h81pYd4LZEKnIMJoyuMVicEBDRmx/view?usp=sharing)
 * [Простой Python. Б.Любанович.](https://drive.google.com/file/d/1afUOKs3KFTUt5JElSDEPX2ZpWUgGsxkH/view?usp=sharing)
+* [Программирование на языке Python. Седжвик.](https://drive.google.com/file/d/1IFt4pgLTf7uskxaGI9j8QkMZA2NcYz4j/view?usp=sharing)
 * [Создаём нейронную сеть. Т.Рашид.](https://drive.google.com/file/d/124cIIbvuyk6KRPfC5rgZdzIEzFEoKQEI/view?usp=sharing)
 * [Грокаем алгоритмы. Адитья Бхаргава.](https://drive.google.com/file/d/1VpgBxiq-_SXXexCsuKLXMbTlwCHhzo1H/view?usp=sharing) 
 * [Теоретический минимум по COMPUTER SCIENCE. Фило.](https://drive.google.com/file/d/1O1231eaCtiR6WdxgaExOYzWzFDSIdem-/view?usp=sharing)
