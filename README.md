@@ -23,3 +23,4 @@
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [PostgreSQL](https://www.postgresql.org/)
 * [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
+* [12 factor API](https://12factor.net/)
